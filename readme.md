@@ -1,4 +1,4 @@
-# SPA typer
+# Spatfinder
 
 Simple script for finding SPA types in enssembles
 
